@@ -1,0 +1,1 @@
+Light bulbs can be identified by type and can be measured by the amount of lumens produced per watt of power. The Incandescent and Fluorescent classes below inherit from the abstract LightBulb class. Complete the LightBulb class so that the getDescription method returns a string of the form lumensPerWatt=...,shape=... (without any spaces). Be sure that your class is abstract!
